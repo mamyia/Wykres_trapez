@@ -18,6 +18,8 @@ public class GUI {
         frame.add(kontrolki,BorderLayout.WEST);
         frame.add(wykres,BorderLayout.EAST);
 
+        //test
+
 
     }
 }
